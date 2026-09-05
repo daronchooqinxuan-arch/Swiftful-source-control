@@ -17,6 +17,9 @@ struct ContentView: View {
             Button("Click me"){
                 
             }
+            Button("Random Button"){
+                
+            }
         }
         .padding()
     }
