@@ -17,9 +17,13 @@ struct ContentView: View {
             Button("Click me"){
                 
             }
-            Button("Random Button"){
+            Button(){
                 
+            }label:{
+                Text("Click me too")
+                    .font(Font.body.bold())
             }
+            
         }
         .padding()
     }
