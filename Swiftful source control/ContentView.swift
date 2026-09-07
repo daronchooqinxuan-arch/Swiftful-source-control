@@ -23,7 +23,7 @@ struct ContentView: View {
                 Text("Click me too")
                     .font(Font.body.bold())
             }
-            
+            Rectangle()
         }
         .padding()
     }
