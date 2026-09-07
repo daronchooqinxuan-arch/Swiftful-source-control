@@ -20,7 +20,7 @@ struct ContentView: View {
             Button(){
                 
             }label:{
-                Text("Click me too")
+                Text("676767")
                     .font(Font.body.bold())
             }
             Rectangle()
