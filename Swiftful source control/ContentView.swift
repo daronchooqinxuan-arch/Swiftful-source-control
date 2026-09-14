@@ -20,7 +20,7 @@ struct ContentView: View {
             Image(systemName: "heart.fill")
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
-            Text("Swiftful thinking!")
+            Text("Swiftful thinking! 67")
             Button("Click me pls trust"){
                 
             }
