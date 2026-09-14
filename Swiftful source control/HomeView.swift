@@ -15,6 +15,9 @@ struct HomeView: View {
         Button("Click me screen 2"){
             
         }
+        .onAppear{
+            //analytics
+        }
         Rectangle()
     }
 }
