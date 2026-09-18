@@ -27,7 +27,7 @@ struct ContentView: View {
             Button(){
                 
             }label:{
-                Text("676767")
+                Text("67")
                     .font(Font.body.bold())
             }
             Rectangle()
