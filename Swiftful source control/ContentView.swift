@@ -30,7 +30,6 @@ struct ContentView: View {
                 Text("Hi")
                     .font(Font.body.bold())
             }
-            Rectangle()
             ForEach(0..<4) { _ in
                 Text("I am Daron！！")
             }
