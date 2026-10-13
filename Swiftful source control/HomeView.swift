@@ -13,7 +13,7 @@ struct HomeView: View {
         Text("Screen 2")
         Text("Screen 3")
         Button("Click me screen 2"){
-            
+            Text("Hiiiiiii")
         }
         .onAppear{
             //analytics
