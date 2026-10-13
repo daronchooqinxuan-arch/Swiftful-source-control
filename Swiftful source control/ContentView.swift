@@ -32,7 +32,7 @@ struct ContentView: View {
             }
             Rectangle()
             ForEach(0..<4) { _ in
-                Text("I am Daron！！")
+                Text("I am Daron!!!!!!!!!")
             }
         }
         .padding()
