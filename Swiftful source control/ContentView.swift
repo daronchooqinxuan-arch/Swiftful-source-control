@@ -6,11 +6,14 @@
 //
 /*
 Clone = Copying the repo locally
- Commit = save "Checkpoint" on our current branch
+ Commit = save "Checkpoint" Changes on our current branch
  Stage = Prepare changes for a commit
  Stash = save changes for later
  Push = send local commits to remote repo
  Pull = fetch remote commits to local repo
+ Merge = joining twow different branches
+ Rebase = Moving one branch on top of another branch
+ Cherry picking = Copying one commit from one branch to another
  */
 import SwiftUI
 
