@@ -17,7 +17,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "bolt.fill")
+            Image(systemName: "house.fill")
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
             Text("Swiftful thinking! 67")
@@ -27,10 +27,13 @@ struct ContentView: View {
             Button(){
                 
             }label:{
-                Text("67")
+                Text("Hi")
                     .font(Font.body.bold())
             }
             Rectangle()
+            ForEach(0..<4) { _ in
+                Text("I am Daron！！")
+            }
         }
         .padding()
     }
