@@ -31,7 +31,7 @@ struct ContentView: View {
                     .font(Font.body.bold())
             }
             ForEach(0..<4) { _ in
-                Text("I am Daron！！")
+                Text("I am Daron!!!!!!!!!")
             }
         }
         .padding()
